@@ -12,7 +12,7 @@
 }
 
 [epub|type~="z3998:salutation"]{
-	font-variant: small-caps;
+	text-align: initial;
 }
 
 [epub|type~="z3998:valediction"]{
