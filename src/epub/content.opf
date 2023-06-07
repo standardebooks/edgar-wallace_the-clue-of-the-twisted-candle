@@ -1,8 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-twisted-candle</dc:identifier> <dc:date>1900-01-01T00:00:00Z</dc:date> <meta property="dcterms:modified">1900-01-01T00:00:00Z</meta> <dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights> <dc:publisher id="publisher">Standard Ebooks</dc:publisher> <meta property="file-as" refines="#publisher">Standard Ebooks</meta> <meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta> <meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta> <meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta> <meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta> <dc:contributor id="type-designer">The League of Moveable Type</dc:contributor> <meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta> <meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta> <meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta> <link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/> <meta property="a11y:certifiedBy">Standard Ebooks</meta> <meta property="schema:accessMode">textual</meta> <meta property="schema:accessModeSufficient">textual</meta> <meta property="schema:accessibilityFeature">readingOrder</meta> <meta property="schema:accessibilityFeature">structuralNavigation</meta> <meta property="schema:accessibilityFeature">tableOfContents</meta> <meta property="schema:accessibilityFeature">unlocked</meta> <meta property="schema:accessibilityHazard">none</meta> <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta> <link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/> <dc:title id="title">The Clue of the Twisted Candle</dc:title> <meta property="file-as" refines="#title">Clue of the Twisted Candle, The</meta> <dc:subject id="subject-1">Detective and mystery stories</dc:subject> <meta property="authority" refines="#subject-1">LCSH</meta> <meta property="term" refines="#subject-1">sh85037260</meta> <meta property="se:subject">Adventure</meta> <meta property="se:subject">Fiction</meta> <dc:description id="description">DESCRIPTION</dc:description> <meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta> <dc:language>en-GB</dc:language> <dc:source>https://www.gutenberg.org/ebooks/2688</dc:source> <dc:source>https://archive.org/details/clueoftwistedcan00walliala/mode/2up</dc:source> <meta property="se:word-count">WORD_COUNT</meta> <meta property="se:reading-ease.flesch">READING_EASE</meta> <meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_Twisted_Candle</meta> <meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-clue-of-the-twisted-candle</meta> <dc:creator id="author">Edgar Wallace</dc:creator> <meta property="file-as" refines="#author">Wallace, Edgar</meta> <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Wallace</meta> <meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>&gt; <meta property="role" refines="#author" scheme="marc:relators">aut</meta> <dc:contributor id="artist">COVER_ARTIST</dc:contributor> <meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta> <meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta> <meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta> <meta property="role" refines="#artist" scheme="marc:relators">art</meta> <dc:contributor id="transcriber-1">Anonymous</dc:contributor> <meta property="file-as" refines="#transcriber-1">Anonymous</meta> <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta> <dc:contributor id="transcriber-2">David Widger</dc:contributor> <meta property="file-as" refines="#transcriber-2">Widger, David</meta> <meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta> <meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta> <dc:contributor id="producer-1">Norman C. Walz</dc:contributor> <meta property="file-as" refines="#producer-1">Walz, Norman C.</meta> <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta> <meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta> <meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta> <meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta> <meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta> <meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta></metadata>
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-twisted-candle</dc:identifier>
+		<dc:date>1900-01-01T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+		<dc:title id="title">The Clue of the Twisted Candle</dc:title>
+		<meta property="file-as" refines="#title">Clue of the Twisted Candle, The</meta>
+		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85037260</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A successful writer is asked to help solve a locked-room murder mystery that has the authorities baffled.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;John Lexham, a famous mystery writer has a money problem due to a poor investment. His problems multiply when a confrontation leads to a dead creditor and a lengthy prison sentence for the writer. Kara, a rich friend with a shady past, aids in John's prison break and escape abroad.&lt;/p&gt;
+			&lt;p&gt;Belatedly, Lexham discovers that sometimes friends can be enemies and freedom can mean another imprisonment. Escaping a second time and now newly exonerated, John returns home and is called upon to help solve the locked-room murder mystery involving Kara's brutal murder and burned candles.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Clue of the Twisted Candle&lt;/i&gt; was published in 1918 and adapted for film in 1960.&lt;/p&gt;
+		</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/2688</dc:source>
+		<dc:source>https://archive.org/details/clueoftwistedcan00walliala</dc:source>
+		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:word-count">WORD_COUNT</meta>
+		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_Twisted_Candle</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-clue-of-the-twisted-candle</meta>
+		<dc:creator id="author">Edgar Wallace</dc:creator>
+		<meta property="file-as" refines="#author">Wallace, Edgar</meta>
+		<meta property="se:name.person.full-name" refines="#author">Richard Horatio Edgar Wallace</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Wallace</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
+		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Norman C. Walz</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Walz, Norman C.</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
