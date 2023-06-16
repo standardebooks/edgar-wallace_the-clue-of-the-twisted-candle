@@ -2,15 +2,15 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-twisted-candle</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-06-16T02:09:35Z</dc:date>
+		<meta property="dcterms:modified">2023-06-16T02:09:35Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
@@ -35,15 +35,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A successful writer is asked to help solve a locked-room murder mystery that has the authorities baffled.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;John Lexham, a famous mystery writer has money problems due to a poor investment. His problems multiply when a confrontation leads to a dead creditor and a lengthy prison sentence. Kara, a rich friend with a shady past, aids in John’s prison break and escape abroad.&lt;/p&gt;
-			&lt;p&gt;Belatedly, Lexham discovers that sometimes friends can be enemies and freedom can mean further imprisonment. Escaping a second time and now newly exonerated, John returns home and is called upon to help solve the locked-room murder mystery involving Kara’s brutal murder and burned candles.&lt;/p&gt;
+			&lt;p&gt;John Lexham, a famous mystery writer, finds himself with money problems after an investment goes poorly. His problems multiply when a confrontation leads to a dead creditor, and John quickly finds himself convicted of the crime and given a lengthy prison sentence. Kara, a rich friend with a shady past, helps John break out of prison and escape abroad.&lt;/p&gt;
+			&lt;p&gt;But Lexham soon finds out that sometimes friends can be enemies, and that freedom can be fleeting, as he is soon held captive again. After escaping a second time and being exonerated, John is called upon to help solve Kara’s brutal murder.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Clue of the Twisted Candle&lt;/i&gt; was published in 1918 and adapted for film in 1960.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2688</dc:source>
 		<dc:source>https://archive.org/details/clueoftwistedcan00walliala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">58545</meta>
+		<meta property="se:reading-ease.flesch">72.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_Twisted_Candle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-clue-of-the-twisted-candle</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
@@ -67,11 +67,15 @@
 		<dc:contributor id="producer-1">Norman C. Walz</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Walz, Norman C.</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
