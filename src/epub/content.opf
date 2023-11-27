@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2688</dc:source>
 		<dc:source>https://archive.org/details/clueoftwistedcan00walliala</dc:source>
-		<meta property="se:word-count">58545</meta>
+		<meta property="se:word-count">58543</meta>
 		<meta property="se:reading-ease.flesch">72.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_Twisted_Candle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-clue-of-the-twisted-candle</meta>
